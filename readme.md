@@ -1,3 +1,9 @@
+# Madlibs Ionic App (from concept to creation)
+## Survey monkey link to collect Industry ideas you would like to disrupt.
+### I want to build an app with the community. Fill out the form below to gather industry ideas and we will vote at a later date on what to build
+
+https://www.surveymonkey.com/r/WDFG69G
+
 # Introduction To The Ionic Framework
 ## Pre-requisites for learning Ionic
 	1. Some knowledge of at least 1 of the major javascript frameworks
